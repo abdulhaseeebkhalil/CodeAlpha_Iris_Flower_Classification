@@ -48,15 +48,12 @@ CodeAlpha_Iris_Flower_Classification/
 
 ### 1. **Clone the Repository**
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/abdulhaseeebkhalil/CodeAlpha_Iris_Flower_Classification>
 cd CodeAlpha_Iris_Flower_Classification
 ```
 
 ### 2. **Install Requirements**
-```bash
-pip install -r requirements.txt
-```
-Or, install manually:
+install manually:
 ```bash
 pip install pandas scikit-learn numpy streamlit
 ```
