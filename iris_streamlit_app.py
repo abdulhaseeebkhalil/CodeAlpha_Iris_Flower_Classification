@@ -27,11 +27,11 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Sidebar
-st.sidebar.image("https://upload.wikimedia.org/wikipedia/commons/4/41/Iris_versicolor_3.jpg", use_column_width=True)
+st.sidebar.image("https://upload.wikimedia.org/wikipedia/commons/4/41/Iris_versicolor_3.jpg", use_container_width=True)
 st.sidebar.title("🌸 Iris Classifier Project")
 st.sidebar.markdown("""
 **Author:** Abdul Haseeb  
-[GitHub](https://github.com/) | [Dataset Source](https://www.kaggle.com/datasets/uciml/iris)
+[GitHub](https://github.com/abdulhaseeebkhalil/CodeAlpha_Iris_Flower_Classification) | [Dataset Source](https://www.kaggle.com/datasets/uciml/iris)
 """)
 
 # Main content
