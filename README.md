@@ -73,14 +73,6 @@ streamlit run iris_streamlit_app.py
 
 ---
 
-## 🖥️ Screenshots
-## 🖥️ Screenshots
-
-Here’s how the Streamlit app looks:
-
-![Streamlit App Screenshot](D:/Internships/CodeAlpha/Project/CodeAlpha_Iris_Flower_Classification/images/main-dashboard.png)
----
-
 ## 📝 Requirements
 - Python 3.7+
 - pandas
